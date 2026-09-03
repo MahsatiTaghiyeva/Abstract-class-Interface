@@ -24,7 +24,7 @@ namespace RestoranSimulyasiyasi
         }
         public override string ToString()
         {
-            return $"Pizza: {Name}, Weight: {Weight}, IsSalty: {IsSalty}, Price: {CalcPrice()}";
+            return $"Fries: {Name}, Weight: {Weight}, IsSalty: {IsSalty}, Price: {CalcPrice()}";
         }
     }
 }
